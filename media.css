@@ -1,0 +1,17 @@
+body{
+    background-color: aliceblue;
+}
+button.limparCampos {
+    background-color: rgb(127, 197, 197);
+    border: none;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+}
+button.calcularMedia {
+    background-color: rgb(103, 182, 107);
+    border: none;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+}

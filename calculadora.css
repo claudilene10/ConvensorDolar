@@ -1,0 +1,12 @@
+.linha {
+    display: flex;
+    align-items: flex-end; /* Alinha pela parte inferior */
+    gap: 10px; /* Espaço entre input e botão */
+    margin-top: 10px; /* Espaço acima do bloco */
+    
+}
+
+.desconto-container {
+    display: flex;
+    flex-direction: column; /* Label e input ficam um embaixo do outro */
+}
